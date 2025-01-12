@@ -1,0 +1,13 @@
+.DS_Store
+
+/vendor
+
+composer.json
+composer.lock
+
+portfolio-details.html
+service-details.html
+starter-page.html
+
+/forms/send_email.php
+/forms/readme.txt
